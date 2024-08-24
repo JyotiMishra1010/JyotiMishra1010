@@ -1,4 +1,4 @@
-![logo]("https://github.com/JyotiMishra1010/JyotiMishra1010/blob/main/Navy-White-Modern-Digital-Technology-Blog-Banner--1500---400-px---1500---800-px-.gif")
+![logo](https://github.com/JyotiMishra1010/JyotiMishra1010/blob/main/Navy-White-Modern-Digital-Technology-Blog-Banner--1500---400-px---1500---800-px-.gif?raw=true)
 <h1 align="center">Hi 👋, I'm Jyoti Mishra</h1>
 <h3 align="center">A passionate frontend developer and Machine learning enthusiastic from Indiaa</h3>
 <img align="right" alt="GIF" width="450" src="https://github.com/JyotiMishra1010/JyotiMishra1010/blob/main/newone.gif">
