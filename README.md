@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jyoti Mishra</h1>
 <h3 align="center">A passionate frontend developer and Machine learning enthusiastic from Indiaa</h3>
-<img align="right" alt="GIF" width="450" src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif">
+<img align="right" alt="GIF" width="450" src="https://github.com/JyotiMishra1010/JyotiMishra1010/blob/main/newone.gif">
 >
 - 💬 Ask me about **My skills ✨**
 
